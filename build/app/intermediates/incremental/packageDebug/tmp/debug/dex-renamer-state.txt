@@ -1,0 +1,4 @@
+#Fri Sep 08 22:05:47 IST 2023
+base.0=/Users/pushpendrasingh/StudioProjects/temperature_converter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
